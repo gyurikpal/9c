@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Egyszer volt, hol nem volt, volt egyszer egy kamion. Egy reggel elindult. A kamiont CSABIKASZORBÁN #JUNIOR 10  T-1000-ES MODELL vzetette
-=======
-Egyszer volt, hol nem volt, volt egyszer egy kamion. Egy reggel elindult szokásos bemelegítő útjára. És elütött egy
->>>>>>> d7ece81276298fc4ecf9ed1eb16fda0e94a6dd95 egy kettő három
+Egyszer volt, hol nem volt, volt egyszer egy kamion. Egy reggel elindult. És elütött egy szökkenő szarvast, ami
