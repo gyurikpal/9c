@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ......................
 
 ▓▓▓▓
@@ -23,3 +24,6 @@
 ▒▓▒▓▓▓▓▓▓▓▓▓▓
 ▒▓▒▒▒▒▒▒▒▓
 ▒▒▓▒▒▒▒▒▓
+=======
+......................ahdauhfdafazgfafafazfazgfzgafgagfazgfazufdgvhfc7btfrhbdklgnsfs75ecbgdpogknsfkackc7bvceahbcwhgcxrgkdxgnjdgfsufs
+>>>>>>> c4d9b42d0928e73ed96616d53e35fe55b02da126
