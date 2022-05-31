@@ -1,4 +1,5 @@
 ugy latom ezt olvasod sok ertelme nincs de egeszsegedre egy kis olvasas sosem art
+<<<<<<< HEAD
 
 ⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿
 ⢸⣇⠻⣿⣿⣿⣧⣀⢀⣠⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿
@@ -12,3 +13,6 @@ ugy latom ezt olvasod sok ertelme nincs de egeszsegedre egy kis olvasas sosem ar
 ⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁⠄
 ⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄⠄⠄
 ⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⠄
+=======
+lengyo piac
+>>>>>>> 16011ca9fcf5bc4f91e96c7ff66247120a4066a1
