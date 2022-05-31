@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 szia
+=======
+Tiszteletem! Mit keres itt?
+>>>>>>> ae0a790594ac4f02de604f7614cba32fb987b669
