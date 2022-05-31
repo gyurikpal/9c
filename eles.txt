@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Egyszer volt, hol nem volt, volt egyszer egy kamion. Minden reggel elment a boltba sörért. Jól indult igy
+=======
+Egyszer volt, hol nem volt, volt egyszer egy kamion. Minden reggel elment a boltba sörért. 
+De nem volt sör.
+
+Hamarosan vége a tanításnak.
+
+
+Itt a vége, fuss el véle!
+>>>>>>> dcf8bf8e1a79dc54fe06e5462e4b1b794bdb3a56
