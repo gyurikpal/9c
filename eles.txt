@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 Egyszer volt, hol nem volt, volt egyszer egy kamion. Minden reggel elment a boltba sörért. 
 De nem volt sör.Ezért szomorú volt.
-=======
+
 Egyszer volt, hol nem volt, volt egyszer egy kamion. Minden reggel elment a boltba sörért, de szigorúan menteset. 
->>>>>>> 1e82d2a2c07dd12eba2a2bfebc2750ba9286601e
+
 
 Hamarosan vége a tanításnak.
 
