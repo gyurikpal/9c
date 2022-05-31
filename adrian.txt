@@ -1,2 +1,8 @@
 a nevem pap adrian éhes vagyok
+<<<<<<< HEAD
 de nagyon
+=======
+
+
+adian egy gypsy
+>>>>>>> 7aa2d8b29841e21d34eae44327ad7426d32953ec

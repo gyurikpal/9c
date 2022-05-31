@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 szia
 =======
 Tiszteletem! Mit keres itt?
 >>>>>>> ae0a790594ac4f02de604f7614cba32fb987b669
+=======
+Tiszteletem! Mit keres itt?
+>>>>>>> 7aa2d8b29841e21d34eae44327ad7426d32953ec
