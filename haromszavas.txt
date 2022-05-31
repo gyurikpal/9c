@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Egyszer volt, hol nem volt, volt egyszer egy kamion. Egy reggel elindult szokásos bemelegítő útjára. És elütött egy nem tudom hol járunk most.
-=======
-Egyszer volt, hol nem volt, volt egyszer egy kamion. Egy reggel elindult. És elütött egy szökkenő szarvast, ami
->>>>>>> 263bf8048cc1dff8c4f4509bcd89a937d99eabcd
